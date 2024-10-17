@@ -236,6 +236,7 @@ header {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  margin-bottom: 8px;
 }
 .section-title {
   font-weight: 700;
@@ -269,6 +270,7 @@ header {
   display: flex;
   justify-content: center;
   gap: 24px;
+  padding: 0 16px;
 }
 .icon-social-networks {
   width: 40px;
